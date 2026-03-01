@@ -1,0 +1,61 @@
+{
+  "concept": "A young driver brings their car in knowing it's too late, and the mechanic's silence confirms what they both understand: some damage can't be undone, some warnings ignored too long.",
+  "shots": [
+    {
+      "id": 1,
+      "frame": "CU: Jesse's hands gripping the steering wheel, knuckles white, dashboard warning lights glowing red in the background blur",
+      "audio": "Engine rattling, warning chime beeping insistently",
+      "duration": 5,
+      "valueShift": "Anxiety \u2192 Dread"
+    },
+    {
+      "id": 2,
+      "frame": "MCU: Jesse's face through windshield, no smile, just hollow acceptance, eyes already knowing",
+      "audio": "Engine dies with a final shudder, then oppressive silence",
+      "duration": 5,
+      "valueShift": "Resignation \u2192 Void"
+    },
+    {
+      "id": 3,
+      "frame": "CU: Mechanic's hands opening hood, revealing catastrophic damage, hands pause mid-air",
+      "audio": "Hood opens to reveal grinding metal sounds, something broken beyond repair",
+      "duration": 5,
+      "valueShift": "Faint hope \u2192 Finality"
+    },
+    {
+      "id": 4,
+      "frame": "ECU: Mechanic's eyes meeting Jesse's, a look that says 'I'm sorry' without words",
+      "audio": "Complete silence. No question asked. None needed.",
+      "duration": 5,
+      "valueShift": "Question \u2192 Answer"
+    },
+    {
+      "id": 5,
+      "frame": "CU: Jesse's face, looking down, then slowly back up, a small nod of acknowledgment",
+      "audio": "Quiet admission: 'A while.' Pause. 'Too long.'",
+      "duration": 5,
+      "valueShift": "Shame \u2192 Acceptance"
+    },
+    {
+      "id": 6,
+      "frame": "MCU: Mechanic's hand hovering near Jesse's shoulder but not touching, both staring at the engine",
+      "audio": "Distant traffic. Wind. The weight of too-late.",
+      "duration": 5,
+      "valueShift": "Connection \u2192 Solitude"
+    }
+  ],
+  "invisibleWide": "Jesse knew it was terminal weeks ago. This visit isn't about repair\u2014it's about hearing someone else confirm what they've been too afraid to admit. The car is a metaphor for something else they've lost.",
+  "stormCloud": {
+    "detail": "Jesse's phone has 47 unread messages from someone named 'Mom.' The last one is from two weeks ago.",
+    "rating": "INVISIBLE"
+  },
+  "platform": {
+    "length": "30 seconds",
+    "hook": "Opening shot of white knuckles and red warning lights immediately signals tension",
+    "loop": "Yes \u2014 the circular nature of ignoring problems creates natural replay curiosity",
+    "soundOff": "Strong \u2014 visual storytelling through hands, eyes, and warning lights carries the narrative"
+  },
+  "directionHistory": [
+    "darker"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "concept": "A young driver's arrival at the auto shop becomes an epic confrontation with fate itself, where a mechanic serves as both judge and potential savior in a battle against the consequences of willful ignorance.",
+  "shots": [
+    {
+      "id": 1,
+      "frame": "CU: Jesse's hands clutching the wheel like a ship's captain in a storm, warning lights blazing like fire",
+      "audio": "Engine roaring like a wounded beast, warning chimes building to crescendo",
+      "duration": 9,
+      "valueShift": "Defiance \u2192 Reckoning"
+    },
+    {
+      "id": 2,
+      "frame": "MCU: Jesse emerging from the car in slow motion, shop looming like a cathedral, mechanic silhouetted in doorway",
+      "audio": "Engine death rattle echoes, footsteps heavy as a funeral march",
+      "duration": 9,
+      "valueShift": "Pride \u2192 Humility"
+    },
+    {
+      "id": 3,
+      "frame": "CU: Hood thrown open dramatically, steam erupting like a volcano, mechanic's face illuminated from below",
+      "audio": "Hood crashes open, steam roars, then sudden silence\u2014the calm before judgment",
+      "duration": 9,
+      "valueShift": "Revelation \u2192 Judgment"
+    },
+    {
+      "id": 4,
+      "frame": "ECU: Mechanic's eyes boring into Jesse's soul, the weight of truth unbearable",
+      "audio": "'How long?' Voice like thunder. Long pause. 'HOW LONG?!' Echo.",
+      "duration": 9,
+      "valueShift": "Interrogation \u2192 Confession"
+    },
+    {
+      "id": 5,
+      "frame": "CU: Jesse falling to their knees beside the car, hands covering face, mechanic standing above",
+      "audio": "Jesse's voice breaking: 'I knew. God help me, I knew.' Wind howls.",
+      "duration": 9,
+      "valueShift": "Denial \u2192 Catharsis"
+    },
+    {
+      "id": 6,
+      "frame": "MCU: Mechanic extending hand to lift Jesse up, backlit by setting sun streaming through shop door",
+      "audio": "'Then we begin again. Together.' Swelling ambient sound, hope rising.",
+      "duration": 9,
+      "valueShift": "Despair \u2192 Redemption"
+    }
+  ],
+  "invisibleWide": "This is not a car repair. This is a morality play about the human condition\u2014our capacity for self-deception, the inevitability of consequence, and the possibility of grace. The auto shop is a stage for the eternal drama of fall and redemption.",
+  "stormCloud": {
+    "detail": "The mechanic's name tag reads 'Gabriel.' The shop is called 'Last Chance Auto.'",
+    "rating": "TOO OBVIOUS"
+  },
+  "platform": {
+    "length": "54 seconds",
+    "hook": "Dramatic hands on wheel with blazing warning lights\u2014immediate epic scale",
+    "loop": "No \u2014 too emotionally exhausting for immediate replay",
+    "soundOff": "Poor \u2014 the operatic audio is essential to the experience"
+  },
+  "directionHistory": [
+    "operatic"
+  ]
+}

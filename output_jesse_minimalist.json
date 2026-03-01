@@ -1,0 +1,54 @@
+{
+  "concept": "Warning lights. A hood opens. Eyes meet. Truth spoken. Nothing more needed.",
+  "shots": [
+    {
+      "id": 1,
+      "frame": "ECU: Red warning light glowing on black dashboard",
+      "audio": "Single warning chime. Silence.",
+      "duration": 5,
+      "valueShift": "Signal \u2192 Attention"
+    },
+    {
+      "id": 2,
+      "frame": "CU: Hood latch releasing, hands in frame",
+      "audio": "Click. Creak. Hiss.",
+      "duration": 5,
+      "valueShift": "Closed \u2192 Open"
+    },
+    {
+      "id": 3,
+      "frame": "ECU: Two pairs of eyes across the engine bay",
+      "audio": "Breathing. Distant traffic.",
+      "duration": 5,
+      "valueShift": "Separate \u2192 Connected"
+    },
+    {
+      "id": 4,
+      "frame": "CU: Single hand gesture toward the engine",
+      "audio": "'How long?' Pause. 'Too long.'",
+      "duration": 5,
+      "valueShift": "Question \u2192 Answer"
+    },
+    {
+      "id": 5,
+      "frame": "MCU: Two figures, silhouettes against bright shop door",
+      "audio": "'We'll fix it.' Footsteps.",
+      "duration": 5,
+      "valueShift": "Problem \u2192 Solution"
+    }
+  ],
+  "invisibleWide": "Everything unnecessary removed. Only the essential exchange remains.",
+  "stormCloud": {
+    "detail": "The warning light is the only color in the entire piece.",
+    "rating": "INVISIBLE"
+  },
+  "platform": {
+    "length": "25 seconds",
+    "hook": "Single red light on black\u2014immediate visual hook",
+    "loop": "Yes \u2014 minimalism invites repeated viewing to catch details",
+    "soundOff": "Excellent \u2014 pure visual storytelling"
+  },
+  "directionHistory": [
+    "minimalist"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "concept": "Framed as a demo for actors skeptical of AI\u2014showing how motion capture becomes a creative tool, not a replacement. The robot learns YOUR unique movement signature.",
+  "shots": [
+    {
+      "id": 1,
+      "frame": "Wide: Person (dressed like they're auditioning) flows through yoga, robot learning their specific style\u2014not generic motion, but THEIR motion",
+      "audio": "Person's voice: 'This isn't replacing me. It's learning from me.'",
+      "duration": 7,
+      "valueShift": "Threat \u2192 Tool"
+    },
+    {
+      "id": 2,
+      "frame": "CU: Dashboard shows 'Learning [Actor Name]'s movement signature... Unique style markers detected: 47'",
+      "audio": "UI sounds, voice continues: 'Every person moves differently. This captures MY way.'",
+      "duration": 6,
+      "valueShift": "Generic \u2192 Personal"
+    },
+    {
+      "id": 3,
+      "frame": "CU: Robot's hands mirroring the prayer position, ActionTranslator overlay shows: 'Compiling gesture... confidence: 0.94, executing: HAND_POSITION_PRAYER'",
+      "audio": "Precise servo movements, compilation complete chime",
+      "duration": 5,
+      "valueShift": "Data \u2192 Action"
+    },
+    {
+      "id": 4,
+      "frame": "MCU: Person does a unique flourish in the pose\u2014robot mirrors it perfectly, capturing their artistic choice",
+      "audio": "Person laughs: 'It even got my weird hand thing! That's actually impressive.'",
+      "duration": 6,
+      "valueShift": "Skepticism \u2192 Recognition"
+    },
+    {
+      "id": 5,
+      "frame": "ECU: Person's face, genuinely impressed, nodding thoughtfully",
+      "audio": "'So this is local motion capture... I own this data. It's MY performance.'",
+      "duration": 5,
+      "valueShift": "Fear \u2192 Ownership"
+    },
+    {
+      "id": 6,
+      "frame": "Wide: Person and robot, text overlay: 'Your movement. Your data. Your control. StepbyStep:ROBOTICS'",
+      "audio": "'I could see using this for rehearsal, for choreography... for keeping my work mine.'",
+      "duration": 6,
+      "valueShift": "Replacement \u2192 Empowerment"
+    }
+  ],
+  "invisibleWide": "This addresses the core fear: AI replacing creative workers. Instead, it shows AI as a tool that amplifies and preserves individual artistry. Local processing means actors own their motion data. The system learns their unique style, not a generic template.",
+  "stormCloud": {
+    "detail": "The dashboard shows 'Data stored locally. No cloud upload. You own this.' in small text.",
+    "rating": "WELL-HIDDEN"
+  },
+  "platform": {
+    "length": "36 seconds",
+    "hook": "Actor's skeptical voice immediately frames the tension",
+    "loop": "Yes \u2014 the transformation from skepticism to acceptance is satisfying",
+    "soundOff": "Poor \u2014 the voiceover is essential to the pitch"
+  },
+  "directionHistory": [
+    "actor-pitch"
+  ]
+}

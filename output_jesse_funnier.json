@@ -1,0 +1,61 @@
+{
+  "concept": "A young driver brings their car in for what seems like a routine check, but the mechanic's deadpan reactions to the absurd state of neglect turn a tense moment into a comedy of automotive denial.",
+  "shots": [
+    {
+      "id": 1,
+      "frame": "CU: Jesse's hands gripping the steering wheel, knuckles white, dashboard warning lights glowing red in the background blur",
+      "audio": "Engine rattling, warning chime beeping insistently",
+      "duration": 5,
+      "valueShift": "Anxiety \u2192 Dread"
+    },
+    {
+      "id": 2,
+      "frame": "MCU: Jesse's face through windshield as they pull into the auto shop, forced smile, eyes darting",
+      "audio": "Engine sputters to silence, distant pneumatic tools",
+      "duration": 5,
+      "valueShift": "False confidence \u2192 Exposure"
+    },
+    {
+      "id": 3,
+      "frame": "CU: Mechanic's weathered hands opening the hood, steam rising, a long pause, then pulling out a sticky note covering the warning lights",
+      "audio": "Hood latch click, hiss of pressure, then: 'Is this... is this a Post-it?'",
+      "duration": 5,
+      "valueShift": "Hope \u2192 Absurdity"
+    },
+    {
+      "id": 4,
+      "frame": "ECU: Mechanic's face, eyebrows raised to maximum height, looking at Jesse with theatrical disbelief",
+      "audio": "'Three months?' Long pause. 'THREE MONTHS?!'",
+      "duration": 5,
+      "valueShift": "Denial \u2192 Comic Revelation"
+    },
+    {
+      "id": 5,
+      "frame": "CU: Jesse's face, looking down, then slowly back up, a small nod of acknowledgment",
+      "audio": "Quiet admission: 'A while.' Pause. 'Too long.'",
+      "duration": 5,
+      "valueShift": "Shame \u2192 Acceptance"
+    },
+    {
+      "id": 6,
+      "frame": "MCU: Mechanic gesturing wildly at the engine, Jesse trying not to laugh, both shaking their heads",
+      "audio": "'Next time maybe try... I don't know... NOT covering the problem with office supplies?'",
+      "duration": 5,
+      "valueShift": "Shame \u2192 Shared Laughter"
+    }
+  ],
+  "invisibleWide": "This isn't just about a car. Jesse's been ignoring warning signs in their life for months\u2014relationships, health, responsibilities. The mechanic represents the moment when avoidance meets consequence, but also the possibility of repair.",
+  "stormCloud": {
+    "detail": "The sticky note covering the warning lights has a smiley face drawn on it.",
+    "rating": "TOO OBVIOUS"
+  },
+  "platform": {
+    "length": "30 seconds",
+    "hook": "Opening shot of white knuckles and red warning lights immediately signals tension",
+    "loop": "Yes \u2014 the circular nature of ignoring problems creates natural replay curiosity",
+    "soundOff": "Strong \u2014 visual storytelling through hands, eyes, and warning lights carries the narrative"
+  },
+  "directionHistory": [
+    "funnier"
+  ]
+}

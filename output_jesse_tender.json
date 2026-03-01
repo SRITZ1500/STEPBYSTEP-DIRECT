@@ -1,0 +1,61 @@
+{
+  "concept": "A young driver brings their car in afraid of judgment, but finds unexpected kindness in a mechanic who sees past the neglect to the person struggling beneath it.",
+  "shots": [
+    {
+      "id": 1,
+      "frame": "CU: Jesse's hands on steering wheel, trembling slightly, a deep breath visible in shoulder movement",
+      "audio": "Engine rattling, but also Jesse's shaky exhale, gathering courage",
+      "duration": 5,
+      "valueShift": "Fear \u2192 Vulnerability"
+    },
+    {
+      "id": 2,
+      "frame": "MCU: Jesse's face through windshield as they pull into the auto shop, forced smile, eyes darting",
+      "audio": "Engine sputters to silence, distant pneumatic tools",
+      "duration": 5,
+      "valueShift": "False confidence \u2192 Exposure"
+    },
+    {
+      "id": 3,
+      "frame": "CU: Mechanic's weathered hands opening the hood, steam rising, a slight head shake",
+      "audio": "Hood latch click, hiss of escaping pressure, heavy sigh",
+      "duration": 5,
+      "valueShift": "Hope \u2192 Reality"
+    },
+    {
+      "id": 4,
+      "frame": "ECU: Mechanic's eyes, soft with understanding, a small reassuring nod before speaking",
+      "audio": "Gentle: 'Hey. It's okay. We all get overwhelmed sometimes.'",
+      "duration": 5,
+      "valueShift": "Bracing for judgment \u2192 Unexpected grace"
+    },
+    {
+      "id": 5,
+      "frame": "CU: Jesse's face, eyes welling up, a grateful smile breaking through",
+      "audio": "Voice cracking: 'I didn't know who else to ask.' Pause. 'Thank you.'",
+      "duration": 5,
+      "valueShift": "Shame \u2192 Relief"
+    },
+    {
+      "id": 6,
+      "frame": "MCU: Mechanic's hand on Jesse's shoulder, both looking at the engine together, a team now",
+      "audio": "'One step at a time. We'll get through this together.'",
+      "duration": 5,
+      "valueShift": "Alone \u2192 Supported"
+    }
+  ],
+  "invisibleWide": "Jesse's been carrying more than car trouble\u2014job loss, family illness, depression. The mechanic recognizes the signs of someone drowning and offers a lifeline disguised as car repair.",
+  "stormCloud": {
+    "detail": "There's a hospital parking pass on Jesse's dashboard from six months of daily visits.",
+    "rating": "WELL-HIDDEN"
+  },
+  "platform": {
+    "length": "30 seconds",
+    "hook": "Trembling hands and a deep breath signal emotional stakes beyond automotive",
+    "loop": "Yes \u2014 the emotional journey invites rewatching for the tender moments",
+    "soundOff": "Moderate \u2014 facial expressions carry emotion, but dialogue adds crucial context"
+  },
+  "directionHistory": [
+    "tender"
+  ]
+}

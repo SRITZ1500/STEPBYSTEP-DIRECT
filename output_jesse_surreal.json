@@ -1,0 +1,61 @@
+{
+  "concept": "A young driver brings their car to a mechanic who seems to understand that the vehicle's problems are manifestations of something stranger\u2014warnings from a reality that's starting to glitch.",
+  "shots": [
+    {
+      "id": 1,
+      "frame": "CU: Jesse's hands on wheel, but the warning lights flicker in impossible patterns, spelling words",
+      "audio": "Engine sounds layered with reversed whispers, warning chimes in musical sequence",
+      "duration": 5,
+      "valueShift": "Confusion \u2192 Unreality"
+    },
+    {
+      "id": 2,
+      "frame": "MCU: Jesse's face through windshield as they pull into the auto shop, forced smile, eyes darting",
+      "audio": "Engine sputters to silence, distant pneumatic tools",
+      "duration": 5,
+      "valueShift": "False confidence \u2192 Exposure"
+    },
+    {
+      "id": 3,
+      "frame": "CU: Mechanic's hands opening hood, but steam forms shapes\u2014faces, symbols, dissolving",
+      "audio": "Hood opens with a sound like tearing fabric, steam hisses in rhythm",
+      "duration": 5,
+      "valueShift": "Expectation \u2192 Otherworldly"
+    },
+    {
+      "id": 4,
+      "frame": "ECU: Mechanic's eyes reflecting the engine, but the reflection shows something else entirely\u2014stars, void",
+      "audio": "'This isn't about the car, is it?' Voice echoes slightly, doubled",
+      "duration": 5,
+      "valueShift": "Question \u2192 Cosmic awareness"
+    },
+    {
+      "id": 5,
+      "frame": "CU: Jesse's face, but their features subtly shift, flicker, like a signal losing reception",
+      "audio": "Jesse's voice layered with static: 'I don't know what's real anymore.'",
+      "duration": 5,
+      "valueShift": "Identity \u2192 Dissolution"
+    },
+    {
+      "id": 6,
+      "frame": "MCU: Both standing by the hood, but the background warps, bends, the shop becoming somewhere else",
+      "audio": "'The signs were never about the car. They were about waking up.'",
+      "duration": 5,
+      "valueShift": "Reality \u2192 Transcendence"
+    }
+  ],
+  "invisibleWide": "The auto shop exists in a liminal space between worlds. The mechanic is a guide for those whose warning lights are actually messages from their subconscious trying to break through consensus reality.",
+  "stormCloud": {
+    "detail": "Every clock in the shop shows a different time. None of them are moving.",
+    "rating": "WELL-HIDDEN"
+  },
+  "platform": {
+    "length": "30 seconds",
+    "hook": "Opening shot of white knuckles and red warning lights immediately signals tension",
+    "loop": "Yes \u2014 the circular nature of ignoring problems creates natural replay curiosity",
+    "soundOff": "Strong \u2014 visual storytelling through hands, eyes, and warning lights carries the narrative"
+  },
+  "directionHistory": [
+    "surreal"
+  ]
+}
